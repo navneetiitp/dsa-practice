@@ -1,2 +1,3 @@
-# dsa-practice
-"My Data Structures and Algorithms practice codes  in C++"
+# DSA Practice
+This repository contains my implementations of data 
+structures and algorithms in c++.
